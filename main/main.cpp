@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Person
+class Person //Fuck CodeBlocks so much
 {
 
 protected:
